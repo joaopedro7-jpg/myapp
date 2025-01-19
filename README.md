@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Este projeto criado no Flutter na linguagem Dart, com fins de realizar uma parcela da proposta da Atividade 2 da disciplina "Desenvolvimento Web".
 
 ## Getting Started
 
